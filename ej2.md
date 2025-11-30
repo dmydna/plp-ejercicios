@@ -20,3 +20,7 @@
 ### Diccionario
 
 ![](src/calculo_lambda/DICC_1.jpg)
+
+### Region 
+![](src/calculo_lambda/REG_1.jpg)
+![](src/calculo_lambda/REG_2.jpg)
